@@ -1,20 +1,17 @@
-<<<<<<< HEAD
+# Front_End_Assessment
 
+Welcome to the **Front_End_Assessment** project! This is a Next.js-based application developed as part of a front-end assessment by Amshakib. Follow the instructions below to set up and run the project on your machine.
 
-## Getting Started
-1.Clone this repository
-https://github.com/Amshakib/Front_End_Assessment.git
+## Instructions
 
-2.Go to the cloned project directory
-cd Front_End_Assessment 
+### 1. Clone this Repository
+Clone the repository to your local machine using the following command:
+```bash
+git clone https://github.com/Amshakib/Front_End_Assessment.git
 
-3.Just run this command to install node dependencies
-npm i
-
-4.Just run this command
-npm run dev
-
-Run the development server:
+### 2. Go to the cloned project directory:
+```bash
+cd Front_End_Assessment
 
 
 
