@@ -10,15 +10,15 @@ Clone the repository to your local machine using the following command:
 git clone https://github.com/Amshakib/Front_End_Assessment.git
 
 ### 2. Go to the cloned project directory:
-```bash
+
 cd Front_End_Assessment
 
 ### 3. Just run this command to install node dependencies:
-```bash
+
 npm i
 
 ### 4. Just run this command:
-```bash
+
 npm run dev
 
 
