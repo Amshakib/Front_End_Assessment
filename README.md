@@ -13,6 +13,17 @@ git clone https://github.com/Amshakib/Front_End_Assessment.git
 ```bash
 cd Front_End_Assessment
 
+### 3. Just run this command to install node dependencies:
+```bash
+npm i
+
+### 4. Just run this command:
+```bash
+npm run dev
+
+
+
+
 
 
 
